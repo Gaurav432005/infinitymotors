@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold:       #C8973A;
+  --color-gold-light: #E8B84B;
+  --color-dark:       #0F0E0C;
+  --color-dark2:      #1A1814;
+  --color-mid:        #2C2A25;
+  --color-cream:      #F5F1EA;
+  --color-cream2:     #EDE8DF;
+  --color-ink:        #3A3830;
+  --color-ink-light:  #7A7568;
+
+  --font-display: "Playfair Display", serif;
+  --font-sans:    "DM Sans", sans-serif;
+  --font-mono:    "Space Mono", monospace;
+}
+
+html { scroll-behavior: smooth; }
+body { overflow-x: hidden; }
+
+/* Clipped button shape */
+.btn-clip {
+  clip-path: polygon(10px 0%, 100% 0%, calc(100% - 10px) 100%, 0% 100%);
+}
+
+/* Custom date input color scheme */
+input[type="date"] { color-scheme: dark; }
+
+/* Remove default select arrow for custom styling */
+select { -webkit-appearance: none; appearance: none; }

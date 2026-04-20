@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Crawl Delay
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://infinitydrivingschool.com/sitemap.xml
+
+# Specific rules for common bots
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1

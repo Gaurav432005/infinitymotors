@@ -1,0 +1,87 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build & Dist
+dist/
+dist-ssr/
+*.local
+build/
+.parcel-cache
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+.DS_Store
+.sublime-project
+.sublime-workspace
+*.code-workspace
+.vim/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+logs/
+
+# OS specific
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Package manager lock files (optional - uncomment if needed)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Analytics & Tracking
+analytics-data/
+*.pem
+
+# SEO & Documentation
+SEO_*.md
+COMPLETE_SEO_SUMMARY.md
+seo-audit.js
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# System files
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+
+# Build output
+out/
+.next/
+
+# Misc
+.cache/
+.turbo/
+turbo.json
+
+# Local test files
+test-output/
+test-results/
