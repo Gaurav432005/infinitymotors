@@ -99,7 +99,7 @@ export default function Hero() {
                        relative overflow-hidden text-[80px] lg:text-[100px] "
             style={{ background: 'linear-gradient(135deg, #1a1814 0%, #2c2a25 50%, #1a1814 100%)' }}
           >
-            <img src="/hero.png" alt="Professional driving instructor teaching a student in premium vehicle at Infinity Motor Training School" />
+            <img src="/hero.png" alt="Professional driving instructor teaching a student in premium vehicle at Infinity Motor Training School" loading="eager" />
           </div>
 
           {/* Badge */}

@@ -30,7 +30,7 @@ export default function Footer() {
             Serving Vasant Kunj, New Delhi since 2022. Rated 4.9★ by 500+ successful learners.
           </p>
           <meta itemProp="telephone" content="+919871141508" />
-          <meta itemProp="url" content="https://infinitydrivingschool.com" />
+          <meta itemProp="url" content="https://infinitymotorschool.com" />
         </Reveal>
 
         {/* Quick Links */}

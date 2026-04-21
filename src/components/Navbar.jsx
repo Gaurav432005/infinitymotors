@@ -38,7 +38,7 @@ export default function Navbar() {
       >
         {/* Logo */}
         <div className="logo flex items-center gap-2">
-          <img className='lg:w-10 w-8' src="/logo.png" alt="Infinity Motor Training School Logo" />
+          <img className='lg:w-10 w-8' src="/logo.png" alt="Infinity Motor Training School Logo" loading="eager" />
                     <a href="#" className="font-mono text-lg sm:text-xl font-bold tracking-[3px] text-gold uppercase no-underline z-10">
           Infinity
         </a>

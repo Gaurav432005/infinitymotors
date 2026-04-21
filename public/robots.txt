@@ -7,7 +7,7 @@ Disallow: /private/
 Crawl-delay: 1
 
 # Sitemap
-Sitemap: https://infinitydrivingschool.com/sitemap.xml
+Sitemap: https://infinitymotorschool.com/sitemap.xml
 
 # Specific rules for common bots
 User-agent: Googlebot

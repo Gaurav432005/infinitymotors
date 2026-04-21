@@ -64,7 +64,7 @@ export default function Fleet() {
                            text-[50px] sm:text-[60px] relative overflow-hidden"
                 style={{ background: 'linear-gradient(135deg, #2c2a25, #1a1814)' }}
               >
-                <img src={car.image} alt={`${car.name} training vehicle with dual controls at Infinity Motor Training School`} />
+                <img src={car.image} alt={`${car.name} training vehicle with dual controls at Infinity Motor Training School`} loading="lazy" />
                 <span className="absolute top-3 left-3 text-[9px] tracking-[2px] uppercase
                                  bg-gold text-dark px-2.5 py-1 font-bold">
                   {car.type}

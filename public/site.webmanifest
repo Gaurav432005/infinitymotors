@@ -1,0 +1,26 @@
+{
+  "name": "Infinity Motor Training School",
+  "short_name": "Infinity Driving School",
+  "description": "Premium driving training school offering professional driving lessons in Vasant Kunj, Delhi NCR",
+  "start_url": "https://infinitymotorschool.com/",
+  "display": "standalone",
+  "background_color": "#080807",
+  "theme_color": "#C8973A",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["business", "education"],
+  "screenshots": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
