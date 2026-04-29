@@ -22,7 +22,7 @@ const COURSES = ['7-Day Intensive', '14-Day Foundation']
 
 const CONTACT_CARDS = [
   { label: '📞 Direct Call',    value: '9871141508',               sub: null },
-  { label: '✉️ Drop Us a Mail', value: 'vipinchoudhary5528@gmail.com', sub: null },
+  { label: '✉️ Drop Us a Mail', value: 'vipinchoudhary5228@gmail.com', sub: null },
   { label: '📍 Find Us',        value: 'Vasant Kunj, New Delhi',  sub: 'Near the community centre, South-West Delhi' },
 ]
 
